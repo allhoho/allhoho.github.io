@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "allhoho"
-  avatar           : "/assets/images/orbit.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/orbit1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "LOONA"
   location         : "Seoul, Korea"
   email            : "21-20514@hafs.hs.kr"
